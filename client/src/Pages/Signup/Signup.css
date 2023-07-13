@@ -1,0 +1,79 @@
+.welcome{
+    display: block;
+    text-align: center;
+}
+
+.highlight-span{
+    font-size: 40px;
+    font-weight: 700;
+    color: purple;
+
+
+}
+.wel-common{
+    font-size: 30px;
+    font-weight: 600;
+
+
+}
+
+.form-box{
+    display: flex;
+    justify-content: center;
+}
+.sign-card{
+    width: 81vh;
+}
+.sign-log-btn{
+    float: right;
+}
+.nav-head{
+    background-color: #B75CFF;
+    height: 12vh;
+}
+.nav-search{
+    border-radius: 30px;
+    width: 50vh;
+    padding: 8px;
+    border: none;
+    padding-left: 19px;
+
+}
+
+.main-section{
+    height: 88vh;
+    width: 205.5vh;
+    
+}
+
+.sec-box{
+    padding: 0px;
+    margin: 0px;
+    
+}
+#sec-box-1{
+    background-color: #B75CFF;
+    
+}
+.sec-btn_add_notes{
+    padding: 7px 30px;
+}
+.signup-input{
+    padding: 11px;
+}
+
+.add-notes-btn{
+    border-radius: 30px;
+    background: white;
+    color: black;
+    font-family: monospace;
+    border: none;
+    
+}
+.sec-all-notes{
+    padding: 10px 29px;
+}
+.notes-card{
+    margin: 10px 1px;
+
+}
